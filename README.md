@@ -1,5 +1,8 @@
 == README
 
+It has been too long since the last change for "Sample Application",
+so I have to start this application over again.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
