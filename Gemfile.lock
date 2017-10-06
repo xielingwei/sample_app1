@@ -222,7 +222,7 @@ DEPENDENCIES
   rails (= 4.0.0)
   rspec-rails (= 3.3.2)
   rubyzip (~> 0.9.9)
-  sass-rails (= 4.0.0)
+  sass-rails (~> 4.0.0)
   sdoc (= 0.3.20)
   selenium-webdriver (= 2.0.0)
   spork-rails!
